@@ -1,2 +1,2 @@
 # Birthday_Wishes
-This repository is for the birthday wishes
+The repo of birthday wishes for someone's pecial day
